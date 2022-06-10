@@ -1,7 +1,4 @@
 /**
- * @author MingFang Li (lim)
- * Course: CSCI 242 - Computer Science II
- * Assignment: 2
  *
  * Project/Class Description:
  * The iceCream class is derived from DessertItems class.
