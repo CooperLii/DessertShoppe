@@ -1,8 +1,4 @@
 /**
- * @author MingFang Li (lim)
- * Course: CSCI 242 - Computer Science II
- * Date: 10/11/2018
- * Assignment: 2B
  *
  * Project/Class Description:
  *                     This project let users enter the items information
