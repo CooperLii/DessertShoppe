@@ -1,7 +1,5 @@
 /**
  * A class to test the Dessert Shoppe Application
- * @author Stuart Hansen
- * @version September 2018
  */
 public class TestCheckout {
 
